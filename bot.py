@@ -48,7 +48,7 @@ async def op(_, m :Message):
                         InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ", url="https://t.me/Network_zadkiel"),
                         InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/zadkiel_hub")
                     ],[
-                        InlineKeyboardButton("💕 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ 💕", url="https://t.me/Autoo_ApproveRobot?startgroup")
+                        InlineKeyboardButton("💕 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ 💕", url="https://t.me/Autoo_Approvebot?startgroup")
                     ]
                 ]
             )
