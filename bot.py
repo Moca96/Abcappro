@@ -87,7 +87,7 @@ async def chk(_, cb : CallbackQuery):
             keyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ", url="https://t.me/Network_zadkiel"),
+                        InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ", url="https://t.me/ABC_MODS"),
                         InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/Zadkiel_hub")
                     ],[
                         InlineKeyboardButton("👻 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ 👻", url="https://t.me/Auto_ApproveRobot?startgroup")
